@@ -37,7 +37,7 @@ NILBP descriptor dataset http://mozart.dis.ulpgc.es/~pedro/ilra_Descriptors/mode
 Resnet descriptor dataset http://mozart.dis.ulpgc.es/~pedro/ilra_Descriptors/modeloItziar2907dlib-face-resnet.txt
 
 WLD descriptor dataset http://mozart.dis.ulpgc.es/~pedro/ilra_Descriptors/modeloItziar2907dlib-face-wld.txt
--------
+
 ## Video 2918
 HOG descriptor dataset http://mozart.dis.ulpgc.es/~pedro/ilra_Descriptors/modeloItziar2918dlib-face-hog.txt
 
@@ -50,6 +50,7 @@ NILBP descriptor dataset http://mozart.dis.ulpgc.es/~pedro/ilra_Descriptors/mode
 Resnet descriptor dataset http://mozart.dis.ulpgc.es/~pedro/ilra_Descriptors/modeloItziar2918dlib-face-resnet.txt
 
 WLD descriptor dataset http://mozart.dis.ulpgc.es/~pedro/ilra_Descriptors/modeloItziar2918dlib-face-wld.txt
+
 ## Video 3011
 HOG descriptor dataset http://mozart.dis.ulpgc.es/~pedro/ilra_Descriptors/modeloItziar3011dlib-face-hog.txt
 
@@ -62,6 +63,7 @@ NILBP descriptor dataset http://mozart.dis.ulpgc.es/~pedro/ilra_Descriptors/mode
 Resnet descriptor dataset http://mozart.dis.ulpgc.es/~pedro/ilra_Descriptors/modeloItziar3011dlib-face-resnet.txt
 
 WLD descriptor dataset http://mozart.dis.ulpgc.es/~pedro/ilra_Descriptors/modeloItziar3011dlib-face-wld.txt
+
 ## Video 3015
 HOG descriptor dataset http://mozart.dis.ulpgc.es/~pedro/ilra_Descriptors/modeloItziar3015dlib-face-hog.txt
 
